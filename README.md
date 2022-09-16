@@ -12,7 +12,7 @@ I'm an intermediate developer with a year experience, My favorite tech stack is 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  Portfolio Coming soon 🔜
 * ✉️  You can contact me at [AbdulkabirSultan@gmail.com](mailto:AbdulkabirSultan@gmail.com)
-* 🚀  I'm currently working on [E-commerce website (Cart n Carry)]
+* 🚀  I'm currently working on E-commerce website (Cart n Carry)
 * 🧠  I'm currently learning Typescript and Nextjs
 
 ### Skills
