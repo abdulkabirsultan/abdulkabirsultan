@@ -4,7 +4,7 @@
 Hi 👋 I'm Abdulkabir Sultan
 =========================================================================================================================================
 
-Web Developer and Graphic Designer
+Software Developer
 ----------------------------------
 
 I'm an intermediate developer with years of experience, My favorite tech stack is the MERN stack. I enjoy coding 💻 and everything that comes with it 😊.
